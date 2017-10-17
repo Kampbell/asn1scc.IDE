@@ -165,6 +165,7 @@ HEADERS += \
     data/visitor.h \
     data/visitorwithvalue.h \
     data/source.h \
+    data/importedtype.h \
     \
     tree-views/outline-visitors/childrencountingvisitor.h \
     tree-views/outline-visitors/childreturningvisitor.h \
